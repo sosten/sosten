@@ -1,6 +1,6 @@
 Sosten, Front-End Developer
-Love Html, Css, JavaScript, React, React Native and PHP
-I’m currently learning Laravel PHP framework
+Love HTML, CSS, JavaScript, React, React Native and PHP.
+I’m currently learning Laravel PHP framework.
 Send me an email at sostennyirenda@gmail.com to interact
 
 <!---
